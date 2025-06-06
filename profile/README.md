@@ -5,6 +5,7 @@
 - [The Process](https://github.com/OMP-Industrial-Project-Chat-Assistant/OMP-Chat-Assistant-Process/blob/master/Process/Extreme%20Programming%20Based%20Process.md)
 - [The Development Repository](https://github.com/OMP-Industrial-Project-Chat-Assistant/OMP-Chat-Assistant)
 - [Latest Release](https://github.com/OMP-Industrial-Project-Chat-Assistant/OMP-Chat-Assistant/tree/release/1.0)
+- [Documentation in Notion](https://www.notion.so/Industrial-Project-1fa6d0aed9028080bbb8e70e0aa3572b)
 
 ## The 7 Practice Areas
 - [Context and Requirement Management](https://github.com/OMP-Industrial-Project-Chat-Assistant/OMP-Chat-Assistant-Process/tree/master/Context%20and%20Requirements%20Management)
